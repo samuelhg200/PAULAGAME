@@ -48,14 +48,14 @@ body {
 
 .title{
     text-align: center;
-    font-size: xxx-large;
+    font-size: 65px;
     color: #4A6FA5;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
   .task{
     text-align: center;
-    font-size: xxx-large;
+    font-size: 60px;
     color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
